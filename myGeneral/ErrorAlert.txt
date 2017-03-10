@@ -1,0 +1,112 @@
+		SQL Errors
+
+Time Occurs= Wed Nov 16 15:27:51 EET 2016
+Class name= begin.oppenConn RemotlyMethod
+Error Code= 17002
+Error Message= IO Error: Invalid number format for port number
+Local Message= IO Error: Invalid number format for port number
+
+Error SQL State= 08006
+Global SQL= null
+
+Internal Method SQL= No internal
+
+Error print Stack= java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+----*************------*************-----
+
+		SQL Errors
+
+Time Occurs= Wed Nov 16 15:29:01 EET 2016
+Class name= begin.oppenConn RemotlyMethod
+Error Code= 17002
+Error Message= IO Error: Invalid number format for port number
+Local Message= IO Error: Invalid number format for port number
+
+Error SQL State= 08006
+Global SQL= null
+
+Internal Method SQL= No internal
+
+Error print Stack= java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+----*************------*************-----
+
+		SQL Errors
+
+Time Occurs= Wed Nov 16 15:29:47 EET 2016
+Class name= begin.oppenConn RemotlyMethod
+Error Code= 17002
+Error Message= IO Error: The Network Adapter could not establish the connection
+Local Message= IO Error: The Network Adapter could not establish the connection
+
+Error SQL State= 08006
+Global SQL= null
+
+Internal Method SQL= No internal
+
+Error print Stack= java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+----*************------*************-----
+
+		SQL Errors
+
+Time Occurs= Wed Nov 16 15:30:00 EET 2016
+Class name= begin.oppenConn RemotlyMethod
+Error Code= 17002
+Error Message= IO Error: The Network Adapter could not establish the connection
+Local Message= IO Error: The Network Adapter could not establish the connection
+
+Error SQL State= 08006
+Global SQL= null
+
+Internal Method SQL= No internal
+
+Error print Stack= java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+----*************------*************-----
+
+		SQL Errors
+
+Time Occurs= Wed Nov 16 15:30:16 EET 2016
+Class name= begin.oppenConn RemotlyMethod
+Error Code= 17002
+Error Message= IO Error: The Network Adapter could not establish the connection
+Local Message= IO Error: The Network Adapter could not establish the connection
+
+Error SQL State= 08006
+Global SQL= null
+
+Internal Method SQL= No internal
+
+Error print Stack= java.sql.SQLRecoverableException: IO Error: The Network Adapter could not establish the connection
+----*************------*************-----
+
+		SQL Errors
+
+Time Occurs= Wed Nov 16 15:43:13 EET 2016
+Class name= begin.oppenConn RemotlyMethod
+Error Code= 17002
+Error Message= IO Error: Invalid number format for port number
+Local Message= IO Error: Invalid number format for port number
+
+Error SQL State= 08006
+Global SQL= null
+
+Internal Method SQL= No internal
+
+Error print Stack= java.sql.SQLRecoverableException: IO Error: Invalid number format for port number
+----*************------*************-----
+
+		SQL Errors
+
+Time Occurs= Sat Jan 21 22:16:55 EET 2017
+Class name= DatabaseConnection.OracleConn
+Error Code= 0
+Error Message= No suitable driver found for jdbc:oracle:thin:@localhost:1521:XE
+Local Message= No suitable driver found for jdbc:oracle:thin:@localhost:1521:XE
+
+Error SQL State= 08001
+Global SQL= null
+
+Internal Method SQL= NO Internal Just open Connection
+
+Error print Stack= java.sql.SQLException: No suitable driver found for jdbc:oracle:thin:@localhost:1521:XE
+----*************------*************-----
+

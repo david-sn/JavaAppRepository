@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/lib/freetts-jsapi10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/swingx-1.6.jar.zip!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/beansbinding-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/freetts.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jasperreports-6.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jcommon-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/ojdbc7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jl1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/csvjdbc-1.0-24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jfreechart-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/swingx-1.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/junit-4.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/png-encoder-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/DateChooser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/lib/jpa.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
