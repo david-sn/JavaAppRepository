@@ -1,7 +1,6 @@
 
 package Files;
 
-import BasicForms.RemotlyConnection;
 import DatabaseConnection.OracleConn;
 import java.io.BufferedWriter;
 import java.io.File;
@@ -76,12 +75,12 @@ public class Error_Dynamic {
     
    static void CorrectError(SQLException ex)
    {
-       RemotlyConnection r=new RemotlyConnection();
-       if (ex.getErrorCode()==17002||ex.getErrorCode()==12505) {
-           if (!r.isVisible()) {
-               r.setVisible(true);
-           }
-       }
+//       RemotlyConnection r=new RemotlyConnection();
+//       if (ex.getErrorCode()==17002||ex.getErrorCode()==12505) {
+//           if (!r.isVisible()) {
+//               r.setVisible(true);
+//           }
+//       }
        
       if (ex.getErrorCode()==1 ) {
            OracleConn.PLSQL_Declare("declare seqname varchar2(40); CURSOR seq IS select SEQUENCE_NAME from USER_SEQUENCES; BEGIN OPEN seq; LOOP FETCH seq INTO seqname; EXECUTE IMMEDIATE ('declare res number ; begin SELECT '||seqname||'.nextval into res  from dual; end;'); EXIT WHEN seq%NOTFOUND; END LOOP;end;");
