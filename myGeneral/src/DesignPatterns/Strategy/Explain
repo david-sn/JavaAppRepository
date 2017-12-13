@@ -1,0 +1,10 @@
+this design pattern work as capsulate algorithms and you can change from algorithms group at runtime by
+make new refrence from class to interface in client
+
+it make client seprate from family algorithms to choose
+like 
+have booking should do 'MakePayment method' and our system has (bankPayment,cashPayment,onlinePayment,...)
+1-create interface payment has method 'pay()'
+2-implement this in all class (bankPayment,cashPayment,onlinePayment,...) with ur custom code
+3- step 1 and 2 called family algorithm encapsulated 
+4-make class has PaymentInterface object which will inject by any type of payment method
